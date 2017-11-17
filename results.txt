@@ -1,0 +1,37 @@
+Testing put function: Pass? 1
+Test get function: Value: 100 ,Value: 66 ,Value: 44 ,Value: 29 ,Value: 19 ,Value: 12 ,
+Did get pass? 1
+Test remove function: Pass? 1
+Test remove function at non zero index: Pass? 1
+test copy constructor to empty table: Value: 66 ,Value: 44 ,Value: 29 ,Value: 12 ,Copy constructor pass? 1
+Add one value and copy to an existing table that has values: Key: Ce, Value: 0.0035
+Copying values: 
+Copy constructor pass? 1
+Testing clear function: Pass? 1
+Testing copy constructor on an empty list: Pass? 1
+
+
+Number of passes = 8.
+Number of failures = 0.
+
+Results from the eval function: 
+C2H6O	 Eval function: 46.069 Expected: 46.069
+Al2Cl(OH)5	 Eval function: 174.452 Expected: 174.449
+H2SO4	 Eval function: 98.078 Expected: 98.078
+NaCHO3	 Eval function: 84.006 Expected: 84.006
+(NaPO3)6LiO2N	 Eval function: 664.712 Expected: 664.711
+NaAl(OH)2CO3	 Eval function: 143.994 Expected: 169.992
+Cu(OH)2(S)	 Eval function: 129.626 Expected: 129.62
+CH3CH2OCH2CH3	 Eval function: 74.123 Expected: 62.112
+(CH3)2CHOH	 Eval function: 60.096 Expected: 60.096
+FeSO4(NH4)2SO4	 Eval function: 284.049 Expected: 265.897
+Ni(NO3)2	 Eval function: 182.701 Expected: 182.701
+K3Fe(CN)6	 Eval function: 329.249 Expected: 353.177
+Sr(NO3)2	 Eval function: 211.628 Expected: 183.614
+(HOCH2)3CNH2	 Eval function: 121.136 Expected: 121.136
+C3H7NO2	 Eval function: 89.094 Expected: 89.094
+(C20H20)	 Eval function: 260.38 Expected: 260.38
+BaKMgMn3Si2Al2O10(OH)2	 Eval function: 669.684 Expected: 705.684
+NaVY	 Eval function: 162.838 Expected: 162.838
+SPIrOAgNeW	 Eval function: 583.147 Expected: 583.138
+RhINO2CErOs	 Eval function: 645.316 Expected: 633.305
